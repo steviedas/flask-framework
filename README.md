@@ -5,4 +5,4 @@ $env:FLASK_APP = "flaskblog.py"
 $env:FLASK_DEBUG = 1
 
 To run:
-flask run
+python flaskblog.py
